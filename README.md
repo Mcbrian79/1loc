@@ -25,7 +25,7 @@ $ npm run dev
 
 Look at the console to see the _Local URL_. Open it in your browser to see it in action.
 
-##Fork
+## Fork
 
 Fork from https://github.com/1milligram/1loc 
 
