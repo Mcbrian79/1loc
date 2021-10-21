@@ -7,7 +7,7 @@ What's your favorite JavaScript single LOC (line of code)? Let me know!
 1. Clone the project:
 
 ```shell
-$ git clone git@github.com:1milligram/1loc.git
+$ git clone https://github.com/Mcbrian79/1loc.git
 ```
 
 2. Install the dependencies:
