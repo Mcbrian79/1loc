@@ -25,16 +25,15 @@ $ npm run dev
 
 Look at the console to see the _Local URL_. Open it in your browser to see it in action.
 
-## Contributing
+##Fork
 
-Pull requests are welcomed. To submit your favorite JavaScript single line of code, please create a markdown file, and put it in
-a particular category of the [snippets](snippets) folder.
+Fork from https://github.com/1milligram/1loc 
 
 ## About
 
-This project is developed by _Nguyen Huu Phuoc_. I love building products and sharing knowledge.
+This project is developed by _Nguyen Huu Phuoc_.
 
-Be my friend on
+Be his friend on
 
 -   [Twitter](https://twitter.com/nghuuphuoc)
 -   [dev.to](https://dev.to/phuocng)
